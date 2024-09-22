@@ -13,6 +13,8 @@
 
 ## 0. 개요 및 목적
 2024년도 Final Project － TEAM CONNECT
+<br>
+2024. 07. 22 ~ 2024. 09. 20
 
 
 
