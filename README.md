@@ -13,14 +13,14 @@
       <a href="https://github.com/h2j1n">이희진(AA)</a>
     </td>
      <td width="130px">
-      <a href="https://github.com/h2j1n"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
+      <a href="https://github.com/joy24219"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/160553266?v=4"></a>
       <br>
-      <a href="https://github.com/h2j1n">정윤지(PL)</a>
+      <a href="https://github.com/joy24219">정윤지(PL)</a>
     </td>
     <td width="130px">
-      <a href="https://github.com/h2j1n"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
+      <a href="https://github.com/ZUZU016"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/181034416?v=4"></a>
       <br>
-      <a href="https://github.com/h2j1n">주현주(UA)</a>
+      <a href="https://github.com/ZUZU016">주현주(UA)</a>
     </td>
      <td width="130px">
       <a href="https://github.com/h2j1n"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
@@ -28,19 +28,19 @@
       <a href="https://github.com/h2j1n">이성훈(BA)</a>
     </td>
     <td width="130px">
-      <a href="https://github.com/h2j1n"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
+      <a href="https://github.com/wlalstjd1321"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
       <br>
-      <a href="https://github.com/h2j1n">지민성(AA)</a>
+      <a href="https://github.com/wlalstjd1321">지민성(AA)</a>
     </td>
     <td width="130px">
-      <a href="https://github.com/h2j1n"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
+      <a href="#"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
       <br>
-      <a href="https://github.com/h2j1n">황혜원(DA)</a>
+      <a href="#">황혜원(DA)</a>
     </td>
     <td width="130px">
-      <a href="https://github.com/h2j1n"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
+      <a href="#"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
       <br>
-      <a href="https://github.com/h2j1n">장현재(TA)</a>
+      <a href="#">장현재(TA)</a>
     </td>
     
   </tr>
