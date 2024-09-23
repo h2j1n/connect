@@ -23,19 +23,19 @@
       <a href="https://github.com/ZUZU016">주현주(UA)</a>
     </td>
      <td width="130px">
-      <a href="https://github.com/h2j1n"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
+      <a href="https://github.com/hoon930115"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/182194183?v=4"></a>
       <br>
-      <a href="https://github.com/h2j1n">이성훈(BA)</a>
+      <a href="https://github.com/hoon930115">이성훈(BA)</a>
     </td>
     <td width="130px">
-      <a href="https://github.com/wlalstjd1321"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
+      <a href="https://github.com/alstjd2"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/182197997?v=4"></a>
       <br>
-      <a href="https://github.com/wlalstjd1321">지민성(AA)</a>
+      <a href="https://github.com/alstjd2">지민성(AA)</a>
     </td>
     <td width="130px">
-      <a href="#"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
+      <a href="https://github.com/hyewon822"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/86226624?v=4"></a>
       <br>
-      <a href="#">황혜원(DA)</a>
+      <a href="https://github.com/hyewon822">황혜원(DA)</a>
     </td>
     <td width="130px">
       <a href="#"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
