@@ -38,9 +38,9 @@
       <a href="https://github.com/hyewon822">황혜원(DA)</a>
     </td>
     <td width="130px">
-      <a href="#"><img height="100px" width="100px" src="https://github.com/user-attachments/assets/d54985ee-8eeb-48a1-8788-849c78dc2657"></a>
+      <a href="https://github.com/JangHyeunJae"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/169343018?v=4"></a>
       <br>
-      <a href="#">장현재(TA)</a>
+      <a href="https://github.com/JangHyeunJae">장현재(TA)</a>
     </td>
     
   </tr>
